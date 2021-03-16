@@ -10,4 +10,7 @@
   
 A simple simulation of a six-sided dice, made in Macromedia Flash (AS1).  
   
-_Side-note: "Kostky" is a plural, the singular word for dice in czech is "kostka" (which could be translated as "a little bone" as well, but is never used in that sense)._
+_Side-note:  
+"Kostky" is a plural, the singular word for dice in czech is "kostka" (which could be translated as "a little bone" as well, but is never used in that sense)._  
+  
+  
