@@ -6,7 +6,7 @@
   
 [RELEASE DOWNLOAD](https://github.com/Dark-Gran/Simple-Dice6/releases/tag/1.0)  
   
-**_Does NOT require the Flash Player to run,_** as it is a part of the release.
+The release includes Flash Player (standalone).
   
 A simple simulation of a six-sided dice, made in Macromedia Flash (AS1).  
   
